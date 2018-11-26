@@ -59,3 +59,16 @@ C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\Example
 C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Order.resources
 C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Properties.Resources.resources
 C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.exe
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.pdb
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\bin\Debug\Oracle.DataAccess.dll
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.csprojResolveAssemblyReference.cache
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.EditOrder.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Login.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Main.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Order.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Properties.Resources.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.pdb

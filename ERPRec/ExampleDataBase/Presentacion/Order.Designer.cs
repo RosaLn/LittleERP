@@ -46,7 +46,7 @@
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.Location = new System.Drawing.Point(0, 27);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(538, 432);
+            this.dataGridView1.Size = new System.Drawing.Size(620, 432);
             this.dataGridView1.TabIndex = 1;
             // 
             // menuStrip1
@@ -60,20 +60,22 @@
             this.toolStripTextBox1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(538, 27);
+            this.menuStrip1.Size = new System.Drawing.Size(620, 27);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // setNewOrderToolStripMenuItem
             // 
+            this.setNewOrderToolStripMenuItem.Image = global::ExampleDataBase.Properties.Resources._32883_200;
             this.setNewOrderToolStripMenuItem.Name = "setNewOrderToolStripMenuItem";
-            this.setNewOrderToolStripMenuItem.Size = new System.Drawing.Size(91, 23);
+            this.setNewOrderToolStripMenuItem.Size = new System.Drawing.Size(107, 23);
             this.setNewOrderToolStripMenuItem.Text = "Set new order";
             // 
             // deleteSelectedToolStripMenuItem
             // 
+            this.deleteSelectedToolStripMenuItem.Image = global::ExampleDataBase.Properties.Resources.delete_icon_1165018;
             this.deleteSelectedToolStripMenuItem.Name = "deleteSelectedToolStripMenuItem";
-            this.deleteSelectedToolStripMenuItem.Size = new System.Drawing.Size(99, 23);
+            this.deleteSelectedToolStripMenuItem.Size = new System.Drawing.Size(115, 23);
             this.deleteSelectedToolStripMenuItem.Text = "Delete Selected";
             // 
             // checkDetailsToolStripMenuItem
@@ -84,14 +86,16 @@
             // 
             // modifyToolStripMenuItem
             // 
+            this.modifyToolStripMenuItem.Image = global::ExampleDataBase.Properties.Resources.modify;
             this.modifyToolStripMenuItem.Name = "modifyToolStripMenuItem";
-            this.modifyToolStripMenuItem.Size = new System.Drawing.Size(57, 23);
+            this.modifyToolStripMenuItem.Size = new System.Drawing.Size(73, 23);
             this.modifyToolStripMenuItem.Text = "Modify";
             // 
             // logsToolStripMenuItem
             // 
+            this.logsToolStripMenuItem.Image = global::ExampleDataBase.Properties.Resources.logs;
             this.logsToolStripMenuItem.Name = "logsToolStripMenuItem";
-            this.logsToolStripMenuItem.Size = new System.Drawing.Size(44, 23);
+            this.logsToolStripMenuItem.Size = new System.Drawing.Size(60, 23);
             this.logsToolStripMenuItem.Text = "Logs";
             // 
             // toolStripTextBox1
@@ -106,7 +110,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(41)))), ((int)(((byte)(52)))));
-            this.ClientSize = new System.Drawing.Size(538, 459);
+            this.ClientSize = new System.Drawing.Size(620, 459);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.menuStrip1);
             this.Name = "Order";
