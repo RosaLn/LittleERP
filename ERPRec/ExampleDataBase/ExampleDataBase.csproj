@@ -53,6 +53,24 @@
     <Compile Include="Dominio\Gestores\GestorClientes.cs" />
     <Compile Include="Dominio\User.cs" />
     <Compile Include="Persistencia\ConnectOracle.cs" />
+    <Compile Include="Presentacion\AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\AddProduct.Designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentacion\EditOrder.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,11 +83,53 @@
     <Compile Include="Presentacion\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentacion\Logs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Logs.Designer.cs">
+      <DependentUpon>Logs.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentacion\Main.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Presentacion\Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ModifyCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ModifyCustomer.Designer.cs">
+      <DependentUpon>ModifyCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ModifyProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ModifyProduct.Designer.cs">
+      <DependentUpon>ModifyProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ModifyUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ModifyUser.Designer.cs">
+      <DependentUpon>ModifyUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\NewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\NewCustomer.Designer.cs">
+      <DependentUpon>NewCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\NewRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\NewRole.Designer.cs">
+      <DependentUpon>NewRole.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\Order.cs">
       <SubType>Form</SubType>
@@ -77,20 +137,49 @@
     <Compile Include="Presentacion\Order.Designer.cs">
       <DependentUpon>Order.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentacion\Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Products.Designer.cs">
+      <DependentUpon>Products.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utils.cs" />
     <EmbeddedResource Include="Presentacion\EditOrder.resx">
       <DependentUpon>EditOrder.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Logs.resx">
+      <DependentUpon>Logs.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\ModifyCustomer.resx">
+      <DependentUpon>ModifyCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\ModifyProduct.resx">
+      <DependentUpon>ModifyProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\ModifyUser.resx">
+      <DependentUpon>ModifyUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\NewCustomer.resx">
+      <DependentUpon>NewCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\NewRole.resx">
+      <DependentUpon>NewRole.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Order.resx">
       <DependentUpon>Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Products.resx">
+      <DependentUpon>Products.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -100,6 +189,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -114,7 +204,24 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\32883-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_icon_1165018.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
