@@ -1,0 +1,48 @@
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.csprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.Main.resources
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.Properties.Resources.resources
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.exe
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.pdb
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\bin\Debug\Oracle.DataAccess.dll
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+c:\users\luis\documents\visual studio 2013\Projects\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.exe
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.pdb
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\bin\Debug\Oracle.DataAccess.dll
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.csprojResolveAssemblyReference.cache
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.Main.resources
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.Properties.Resources.resources
+C:\Users\layuga\Desktop\10ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.exe
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.pdb
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\bin\Debug\Oracle.DataAccess.dll
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.csprojResolveAssemblyReference.cache
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.Main.resources
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.Properties.Resources.resources
+C:\Users\layuga\Desktop\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\Interface design and development\Chapter 1\10.7 MVC\ExampleDataBase\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+\\vmware-host\Shared Folders\Escritorio\Interface design and development\Chapter 1\10.7 MVC\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+\\vmware-host\Shared Folders\Escritorio\Interface design and development\Chapter 1\10.7 MVC\ExampleDataBase\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.EditOrder.resources
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Login.resources
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Order.resources
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug\ExampleDataBase.Properties.Resources.resources
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\bin\Debug\ExampleDataBase.exe
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\bin\Debug\ExampleDataBase.pdb
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\bin\Debug\Oracle.DataAccess.dll
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug\ExampleDataBase.Main.resources
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
+D:\Desarrollo de interfaces\Visual Studio\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+D:\Desarrollo de interfaces\Visual Studio\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+D:\Desarrollo de interfaces\Visual Studio\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
