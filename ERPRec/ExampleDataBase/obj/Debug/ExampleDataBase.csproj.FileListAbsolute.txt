@@ -72,3 +72,14 @@ C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\
 C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
 C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.exe
 C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.AddProduct.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.AddUser.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Customers.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Logs.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Menu.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.ModifyCustomer.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.ModifyProduct.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.ModifyUser.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.NewCustomer.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.NewRole.resources
+C:\Users\B14-04m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Products.resources
