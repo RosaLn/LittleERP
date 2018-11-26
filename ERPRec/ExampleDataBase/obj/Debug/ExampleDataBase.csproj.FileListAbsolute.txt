@@ -59,3 +59,6 @@ C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\Example
 C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Order.resources
 C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Properties.Resources.resources
 C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
+C:\Users\B14-07m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+C:\Users\B14-07m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+C:\Users\B14-07m\Source\Repos\RosaLn\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.pdb

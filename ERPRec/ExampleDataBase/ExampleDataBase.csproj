@@ -49,7 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dominio\Clientes.cs" />
+    <Compile Include="Dominio\Gestores\GestorUsuarios.cs" />
     <Compile Include="Dominio\Gestores\GestorClientes.cs" />
+    <Compile Include="Dominio\User.cs" />
     <Compile Include="Persistencia\ConnectOracle.cs" />
     <Compile Include="Presentacion\EditOrder.cs">
       <SubType>Form</SubType>
@@ -77,6 +79,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils.cs" />
     <EmbeddedResource Include="Presentacion\EditOrder.resx">
       <DependentUpon>EditOrder.cs</DependentUpon>
     </EmbeddedResource>

@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtUser = new System.Windows.Forms.TextBox();
+            this.txtPass = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.btnLogin = new System.Windows.Forms.Button();
+            this.cbIdioma = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -45,20 +45,20 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Login";
             // 
-            // textBox1
+            // txtUser
             // 
-            this.textBox1.Location = new System.Drawing.Point(52, 10);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(239, 20);
-            this.textBox1.TabIndex = 1;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.txtUser.Location = new System.Drawing.Point(52, 10);
+            this.txtUser.Name = "txtUser";
+            this.txtUser.Size = new System.Drawing.Size(239, 20);
+            this.txtUser.TabIndex = 1;
+            this.txtUser.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // textBox2
+            // txtPass
             // 
-            this.textBox2.Location = new System.Drawing.Point(52, 36);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(239, 20);
-            this.textBox2.TabIndex = 3;
+            this.txtPass.Location = new System.Drawing.Point(52, 36);
+            this.txtPass.Name = "txtPass";
+            this.txtPass.Size = new System.Drawing.Size(239, 20);
+            this.txtPass.TabIndex = 3;
             // 
             // label2
             // 
@@ -69,27 +69,27 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Pass";
             // 
-            // button1
+            // btnLogin
             // 
-            this.button1.Location = new System.Drawing.Point(216, 78);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Login";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnLogin.Location = new System.Drawing.Point(216, 78);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(75, 23);
+            this.btnLogin.TabIndex = 4;
+            this.btnLogin.Text = "Login";
+            this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.button1_Click);
             // 
-            // comboBox1
+            // cbIdioma
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cbIdioma.FormattingEnabled = true;
+            this.cbIdioma.Items.AddRange(new object[] {
             "English",
-            "Spanish"});
-            this.comboBox1.Location = new System.Drawing.Point(100, 78);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(110, 21);
-            this.comboBox1.TabIndex = 5;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            "Español"});
+            this.cbIdioma.Location = new System.Drawing.Point(100, 78);
+            this.cbIdioma.Name = "cbIdioma";
+            this.cbIdioma.Size = new System.Drawing.Size(110, 21);
+            this.cbIdioma.TabIndex = 5;
+            this.cbIdioma.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // Login
             // 
@@ -97,11 +97,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(303, 112);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.cbIdioma);
+            this.Controls.Add(this.btnLogin);
+            this.Controls.Add(this.txtPass);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtUser);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Login";
@@ -113,10 +113,10 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtUser;
+        private System.Windows.Forms.TextBox txtPass;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Button btnLogin;
+        private System.Windows.Forms.ComboBox cbIdioma;
     }
 }
