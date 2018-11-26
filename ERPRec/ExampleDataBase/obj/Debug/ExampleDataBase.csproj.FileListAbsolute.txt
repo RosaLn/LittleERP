@@ -46,3 +46,16 @@ C:\Users\B14-07m\Source\Repos\MenchenFive\AyugaERP\ERP\ExampleDataBase\obj\Debug
 D:\Desarrollo de interfaces\Visual Studio\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
 D:\Desarrollo de interfaces\Visual Studio\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.exe
 D:\Desarrollo de interfaces\Visual Studio\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.exe.config
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.exe
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.pdb
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.exe
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\bin\Debug\ExampleDataBase.pdb
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\bin\Debug\Oracle.DataAccess.dll
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.csprojResolveAssemblyReference.cache
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.EditOrder.resources
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Login.resources
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Main.resources
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Presentacion.Order.resources
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.Properties.Resources.resources
+C:\Users\b14-09m\Source\Repos\LittleERP\ERPRec\ExampleDataBase\obj\Debug\ExampleDataBase.csproj.GenerateResource.Cache
